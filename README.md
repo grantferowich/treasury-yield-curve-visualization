@@ -18,6 +18,8 @@ The yield spread is defined "to be the difference between the yield on a 10-year
 
 I am interested in the simple technical indicator for predicting recession, and I am also interested in learning more about Chart.js.
 
+## Deliverables
+
 The first deliverable is to build something, anything, moderately resembling a chart with some data from the Treasury. On the y-axis I'd like to see interest rates, on the x-axis, time to maturity.These rates are commonly referred to as "Constant Maturity Treasury" rates, or CMTs. I will use data from this link for this deliverable: https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield
 
 The first deliverable will take the most recent day's data and construct the yield curve.
