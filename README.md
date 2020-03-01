@@ -14,9 +14,11 @@ Glenn Rudebusch and John Williams of the San Francisco Federal Reserve write in 
 
 The yield spread is defined "to be the difference between the yield on a 10-year U.S. Treasury note and the yield on a 3-month Treasury bill." The authors also say they build the yield spread with "quarterly averages of the constant-maturity yields for each Treasury security."
 
+
+
 ## Approach
 
-I am interested in the simple technical indicator for predicting recession, and I am also interested in learning more about Chart.js.
+I am interested in the simple technical indicator for predicting recession, and I am also interested in learning more about [Chart.js](https://www.chartjs.org/).
 
 ## Deliverables
 
