@@ -37,3 +37,4 @@ The first deliverable will take the most recent day's data and construct the yie
 
 Voila! 
 ![basic yield curve](/assets/Deliverable1.png)
+![yield curve 2](/assets/TreasuryYieldPurple.png)
