@@ -34,3 +34,6 @@ The first deliverable will take the most recent day's data and construct the yie
 ["1 Mo", "2 Mo", "3 Mo", "6 Mo","1 Yr", "2 Yr", "3 Yr", "5 Yr", "7 Yr", "10 Yr", "20 Yr", "30 Yr"]
 
 [1.45,1.37, 1.27, 1.11, 0.97, 0.86, 0.85, 0.89, 1.03, 1.13, 1.46, 1.65].
+
+Voila! 
+![basic yield curve](/assets/Deliverable1.png)
