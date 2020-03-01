@@ -1,6 +1,6 @@
 ## Motivation
 
-The goal of this project is to built a chart using Chart.js. The main data will be from the U.S. Treasury. Specifically, yield curve inversion is a well-known early warning indicator for economic recession in the United States.
+The goal of this mini-project is to built a chart using Chart.js. The main data will be from the U.S. Treasury. Specifically, yield curve inversion is a well-known early warning indicator for economic recession in the United States.
 
 The yield curve plots the interest rate on a U.S. Treasury security of varying maturity lengths. The basic idea is that a 10-year or 30-year Treasury security should provide a greater return than a 1-year or 5-year instrument.
 
