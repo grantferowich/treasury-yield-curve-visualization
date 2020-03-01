@@ -1,5 +1,5 @@
 import React from "react";
-import Dashboard from "./components/dashboard/lineGraph";
+import Dashboard from "./views/dashboard/dashboard";
 
 function App() {
   return (
