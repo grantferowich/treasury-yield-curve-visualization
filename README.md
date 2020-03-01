@@ -10,7 +10,12 @@ In short, 10-year securities should have a higher interest rate than 3-month sec
 
 Glenn Rudebusch and John Williams of the San Francisco Federal Reserve write in a [2008 paper](https://www.frbsf.org/economic-research/files/wp07-16bk.pdf):
 
-"For over two decades, researchers have provided evidence that the yield curve, specifically the spread between long- and short-term interest rates, contains useful information for signaling future recessions. Despite these findings, forecasters appear to have generally placed too little weight on the yield spread when projecting declines in the aggregate economy. Indeed, we show that professional forecasters appear worse at predicting recessions a few quarters ahead than a simple real-time forecasting model that is based on the yield spread."
+"For over two decades, researchers have provided evidence that the yield curve, specifically the spread between long- and short-term interest rates, contains useful information for signaling future recessions."
+
+![yield spread](/assets/YieldSpread.png)
+Format: ![yield spread]("")
+
+"Despite these findings, forecasters appear to have generally placed too little weight on the yield spread when projecting declines in the aggregate economy. Indeed, we show that professional forecasters appear worse at predicting recessions a few quarters ahead than a simple real-time forecasting model that is based on the yield spread."
 
 The yield spread is defined "to be the difference between the yield on a 10-year U.S. Treasury note and the yield on a 3-month Treasury bill." The authors also say they build the yield spread with "quarterly averages of the constant-maturity yields for each Treasury security."
 
