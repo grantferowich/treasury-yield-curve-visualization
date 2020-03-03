@@ -25,6 +25,13 @@ The yield spread is defined "to be the difference between the yield on a 10-year
 
 I am interested in the simple technical indicator for predicting recession, and I am also interested in learning more about [Chart.js](https://www.chartjs.org/).
 
+## Applications 
+
+The survey compares how well professional forecasters predict recession in the next quarter, versus how well the yield spread predicts recessions. "The forecasts from the yield spread model, based on real-time estimates, are significantly
+more accurate than the SPF probability forecasts for forecast horizons of three and four quarters.
+At shorter horizons, the yield curve spread model is not useful at predicting recessions and its
+forecast accuracy is statistically indistinguishable from those of the SPF," according to the 2008 paper. 
+
 ## Deliverables
 
 The first deliverable is to build something, anything, moderately resembling a chart with some data from the Treasury. On the y-axis I'd like to see interest rates, on the x-axis, time to maturity.These rates are commonly referred to as "Constant Maturity Treasury" rates, or CMTs. I will use data from this link for this deliverable: https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield
